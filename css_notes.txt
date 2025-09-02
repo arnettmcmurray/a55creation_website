@@ -1,0 +1,57 @@
+Locked in. Here are the design directions I’ll keep on standby for when you bring me the photos:
+
+🎨 Visual Vibe
+
+Warm neutrals & earth tones → beige, cream, soft gray, muted greens, deep browns.
+
+Accent pops from fabric → quilt reds, yarn blues, patterned stitches.
+
+Texture-forward → mimic fabric feel with subtle background patterns (linen, weave, stitch-like borders).
+
+✍️ Typography
+
+Headings → serif font (handcrafted, classic feel).
+
+Body text → clean sans-serif (easy to read, modern balance).
+
+Optional script font for her name/logo if you want a signature vibe.
+
+🖼 Gallery
+
+Grid stays clean, but:
+
+Add “Sold Out” tags styled like fabric labels.
+
+Use hover effects (slight zoom/pan like Andrew Scott’s).
+
+Maybe a quilted border frame for photos.
+
+🧵 Persona Elements
+
+Swap plain white for a light canvas/linen texture background.
+
+Footer could carry a needle & thread line or knitting icon motif.
+
+Navigation subtle hover color → thread gold or quilt red.
+
+So when you show up with photos, we can spin the CSS from minimal art gallery → cozy handmade boutique without touching the structure.
+
+🌿 Earthy / Cozy Craft
+
+Background: cream / linen texture
+
+Text: deep brown / charcoal
+
+Accent: muted quilt reds, yarn blues, forest green
+
+Hover / links: warm gold
+
+🧼 Clean / Modern Minimal
+
+Background: pure white
+
+Text: black / dark gray
+
+Accent: cool gray, soft beige
+
+Hover / links: crisp black underline, subtle gray shade
